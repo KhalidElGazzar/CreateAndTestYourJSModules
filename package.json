@@ -1,0 +1,22 @@
+{
+  "name": "person-class-with-testing",
+  "version": "2.0.0",
+  "description": "Create test suite and test cases to test the Person class.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha ./test/*.js"
+  },
+  "keywords": [
+    "testing",
+    "test case",
+    "test suite",
+    "chai",
+    "mocha"
+  ],
+  "author": "Khalid ElGazzar",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
