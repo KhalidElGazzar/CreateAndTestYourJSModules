@@ -1,3 +1,5 @@
+// This is the main entry point of the App.
+
 let Person = require ('./Person');
 
 let Jason = new Person("Jason", "Smith", 1985);
