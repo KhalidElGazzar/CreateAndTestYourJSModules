@@ -1,7 +1,7 @@
 {
-  "name": "person-class-with-testing",
+  "name": "person-and-pet-classes-with-testing",
   "version": "2.0.0",
-  "description": "Create test suite and test cases to test the Person class.",
+  "description": "Create test suite and test cases to test the Person class. Added Pet class later on and hence changed Person.js to Modules.js",
   "main": "app.js",
   "scripts": {
     "test": "mocha ./test/*.js"
